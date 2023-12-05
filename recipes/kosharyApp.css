@@ -1,0 +1,32 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+h1{
+    color: #e9c46a;
+    text-align: center;
+    line-height: 1.5;
+    font-weight: bold;
+}
+/* div img
+{
+    margin: auto;
+} */
+
+p{
+    line-height: 1.5;
+    font-size: large;
+    color: #e76f51;
+}
+h2{
+    font-weight: bold;
+    line-height: 1.5;
+    color:#264653;
+}
+
+ul li,
+ol li{
+    line-height: 1.5;
+    color:  #2a9d8f;
+}
