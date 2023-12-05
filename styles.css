@@ -1,0 +1,15 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    /* background-color: #cbb7a2; */
+}
+h1{
+    color: #e9c46a ;
+    text-align: center;
+    font-weight: bold;
+    /* background-color: #264653; */
+}
+ul li a{
+    font-size: large;
+    color: #2a9d8f;
+    line-height: 1.5;
+}
